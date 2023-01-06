@@ -29,16 +29,21 @@ Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
 ```
 
 * movie_listがあることを確認する
+
 ![show databases;実行時](images/image01.png "show databases;")
 
 * moviesテーブルがあることを確認する
+
 ![use movie_list; show tables;実行時](images/image02.png "show tables;")
 
 * moviesテーブルのレコードを確認する
+
 ![select * from movies;実行時](images/image03.png "select * from movies;")
 
 * テーブルにレコードを追加してみる
+
 ![insert実行時](images/image04.png "insert")
 
 * ログアウト・コンテナ停止・停止できていることを確認する
+
 ![exit等実行時](images/image05.png "exit")
